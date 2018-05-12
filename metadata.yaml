@@ -1,0 +1,29 @@
+_repo: The-Book-of-Humorous-Verse_23972
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Wells, Carolyn
+    alias: Houghton, Carolyn Wells
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '1060'
+    url: http://www.gutenberg.org/2009/agents/1060
+    wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
+description: ''
+gutenberg_issued: '2007-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry, American'
+- !lcsh 'Humorous poetry, English'
+- !lcc 'PN'
+title: The Book of Humorous Verse
+url: http://www.gutenberg.org/ebooks/23972
